@@ -46,5 +46,13 @@ Nach dem Tod Ferdinands I. wird das Reich aufgeteilt: Sancho erhält Kastilien, 
 - Gerstmayr Paul
 - Panwinkler Martin
  
+## How to Play
 
+1. **Load the game**: Start GNU-Prolog and consult the file:
+
+2. **Available Commands**:
+   - `start_game.` - Start playing the game
+   - `story.` - Read the background story  
+   - `test_game.` - Test that the game loads correctly
+   - `help.` - Show available commands
 
