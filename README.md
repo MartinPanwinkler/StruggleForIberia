@@ -1,46 +1,50 @@
-# THE STRUGGLE FOR IBERIA - Text Adventure Game
+# **Das Ringen von Iberien**
 
-A Prolog-based text adventure game set in 11th century Spain. Play as King Sancho II of Castile and unite Spain under your rule!
 
-## How to Play
+### **Main Characters:**
 
-1. **Install SWI-Prolog** if you haven't already
-2. **Load the game**: Start SWI-Prolog and consult the file:
-   ```prolog
-   ?- [neu].
-   ```
+ **Spielercharakter – König Sancho II. von Kastilien**  
+- **Rolle:** Erstgeborener Sohn Ferdinands I., König von Kastilien  
+- **Fähigkeiten:** starker Krieger, wenig Geduld für Diplomatie
+- **Ziel:** Ganz Spanien vereinen – koste es, was es wolle
 
-3. **Available Commands**:
-   - `start_game.` - Start playing the game
-   - `story.` - Read the background story  
-   - `test_game.` - Test that the game loads correctly
-   - `help.` - Show available commands
+ **NPC – García von Galicien**  
+- **Rolle:** Bruder und Rivale, König von Galicien  
+- **Fähigkeiten:** Scharfer Stratege, opportunistisch  
+- **Ziel:** Sancho stürzen oder sich ihm anschließen – je nachdem, wer die Oberhand hat
 
-## Game Features
+️ **NPC – Urraca von León**  
+- **Rolle:** Schwester, Herrin über Klöster und Intrigen  
+- **Fähigkeiten:** Meisterin der Intrige und der öffentlichen Meinung  
+- **Ziel:** Frieden in Iberien, aber nach ihren Vorstellungen
 
-- **Multiple paths to victory**: Diplomacy, warfare, or cunning
-- **Historical characters**: El Cid, García of Galicia, Urraca of León, Al-Mutamid of Seville
-- **Dynamic events**: Your choices affect the story outcome
-- **Resource management**: Military strength, legitimacy, and gold
-- **Turn-based gameplay**: Each turn advances the seasons
+ **NPC – Abt Esteban**  
+- **Rolle:** Sanchos Berater aus der Kirche  
+- **Fähigkeiten:** Hoher Learning-Skill, kennt die Geheimnisse der christlichen und muslimischen Welt  
+- **Ziel:** Sancho auf den „rechten“ Pfad führen 
 
-## Background Story
+ **NPC - Al-Mutamid von Sevilla** *(Emir von Sevilla, potenzieller Verbündeter oder Feind)*  
+- **Rolle:** Herrscher eines der mächtigsten muslimischen Taifa-Reiche  
+- **Fähigkeiten:** Gebildet, charismatisch, taktisch klug  
+- **Ziel:** Sein Emirat vor christlichen Eroberern und konkurrierenden muslimischen Fürsten schützen  
+- **Mögliche Interaktionen:** Kann ein geschickter Verhandlungspartner sein
 
-The year is 1065 AD. King Ferdinand I of León has died, dividing his kingdom among his three children. You are Sancho II, King of Castile, determined to reunite Spain under your crown. Your siblings Urraca (León) and García (Galicia) stand in your way, while Muslim kingdoms to the south watch and wait.
+ **NPC - Rodrigo Díaz de Vivar („El Cid“)** *(Junger kastilischer Ritter, zukünftige Legende)*  
+- **Rolle:** Aufstrebender Krieger und Sancho treu ergeben  
+- **Fähigkeiten:** Überragender Schwertkämpfer, Anführer  
+- **Ziel:** Ruhm erlangen und sich als bester Ritter Spaniens beweisen  
+- **Mögliche Interaktionen:** Ein idealer Befehlshaber für Sanchos Truppen
 
-## Gameplay
+---
 
-During each turn you can:
-1. **Diplomacy** - Negotiate with other rulers
-2. **Military** - Build armies and conquer territories  
-3. **Espionage** - Gather intelligence on your enemies
-4. **Travel** - Move between different regions
-5. **Advisors** - Consult El Cid and other counselors
-6. **Status** - Check your current situation
+### **Story sketch:**  
+Nach dem Tod Ferdinands I. wird das Reich aufgeteilt: Sancho erhält Kastilien, seine Geschwister León und Galicien. Doch der ehrgeizige Sancho sieht sich als rechtmäßigen Erben **aller** Ländereien. Während Diplomaten verhandeln, bereiten sich Armeen auf den Krieg vor. Die Iberische Halbinsel ist ein Pulverfass: Mauren im Süden, christliche Rivalen im Norden, und im Herzen Sancho – stolz, stark, aber gejagt von Träumen eines zerbrochenen Reiches. Wer sind Freunde? Wer nur Maskenträger? Dein Ziel ist klar – doch der Weg dorthin ist mit Verrat, Schlachten und uralten Geheimnissen gepflastert.
 
-## Victory Conditions
+---
 
-- **Win**: Control 4 or more territories
-- **Lose**: Lose control of your home kingdom (Castile)
+### **Team members:**  
+- Gerstmayr Paul
+- Panwinkler Martin
+ 
 
-Good luck, King Sancho! The fate of Iberia is in your hands.
+
